@@ -1,4 +1,4 @@
-# StringValidator
+# String Validator 
 
 ## Table of Contents
 1. [Objective](#objective)
